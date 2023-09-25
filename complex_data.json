@@ -1,0 +1,28 @@
+{
+    "person": {
+        "name": "John",
+        "age": 30,
+        "contacts": [
+            {
+                "type": "email",
+                "value": "john@example.com"
+            },
+            {
+                "type": "phone",
+                "value": "123-456-7890"
+            }
+        ]
+    },
+    "books": [
+        {
+            "title": "Python Programming",
+            "authors": ["Alice", "Bob"],
+            "price": 25.99
+        },
+        {
+            "title": "JavaScript Basics",
+            "authors": ["Charlie"],
+            "price": 19.95
+        }
+    ]
+}

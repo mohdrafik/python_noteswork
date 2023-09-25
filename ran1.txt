@@ -1,0 +1,4 @@
+python_programs chapter name wise python script created which will read matlab data file and read them one by one and plot the histogram of each .mat file and save them with a name.
+
+commit: python script created which will read matlab data file and read them …
+…one by one and plot the histogram of each .mat file and save them with a name
