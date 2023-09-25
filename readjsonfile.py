@@ -8,8 +8,8 @@ with open('complex_data.json','r+') as file:
     print(person_age)
     
 # Access values in the complex data
-person_name = complex_data["person"]["name"]
-person_age = complex_data["person"]["age"]
+# person_name = complex_data["person"]["name"]
+# person_age = complex_data["person"]["age"]
 
 # Access the list of contacts
 contacts = complex_data["person"]["contacts"]
