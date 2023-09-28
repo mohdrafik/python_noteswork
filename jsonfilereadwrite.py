@@ -1,5 +1,6 @@
 import json 
 x = ['mahira',1,2,3,4,5]  # here we see any object data is converted to its JSON string representation. 
+print(type(x))
 y = json.dumps(x)
 print(y)
 print(type(y))   # <class 'str'>  We can see type of y is str. x object is converted to the json string.  
